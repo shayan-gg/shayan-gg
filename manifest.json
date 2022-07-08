@@ -1,0 +1,33 @@
+{
+    "theme_color": "#5887fe",
+    "background_color": "#434343",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/https://shayan-gg.github.io/",
+    "name": "Shayan Ansari",
+    "short_name": "Shayan",
+    "description": "3D Artist and Web Developer",
+    "icons": [
+        {
+            "src": "/assets/logo/siteLogo/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/logo/siteLogo/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/logo/siteLogo/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/logo/siteLogo/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
